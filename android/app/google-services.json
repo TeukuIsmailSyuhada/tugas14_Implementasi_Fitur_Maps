@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965634727095",
+    "project_id": "implementasi-firebase",
+    "storage_bucket": "implementasi-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965634727095:android:d9a1f055a34becfa234132",
+        "android_client_info": {
+          "package_name": "com.example.maps_n_place"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTxvjY4ikVjohiqzhcC083K1n1zazlXTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
